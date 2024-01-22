@@ -9,3 +9,7 @@ My favourite restaurant is **Shadab**. The **exceptional taste palette** they pr
 1. **First Preference:** Mutton 65
 2. **Second Preference:** Chicken Fry Piece Biryani
 3. **Third Preference:** Boti Kabab
+
+- Charminar
+- 50k Italian cafe & cafeteria
+- The Nizams Museum 
