@@ -13,3 +13,5 @@ My favourite restaurant is **Shadab**. The **exceptional taste palette** they pr
 - Charminar
 - 50k Italian cafe & cafeteria
 - The Nizams Museum 
+
+![Look into MyMedia](MyMedia.md)
