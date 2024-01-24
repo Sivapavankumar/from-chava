@@ -15,3 +15,15 @@ My favourite restaurant is **Shadab**. The **exceptional taste palette** they pr
 - The Nizams Museum 
 
 ![Look into MyMedia](MyMedia.md)
+
+---
+
+## My Foremost Suggestions
+My top picks for the best telugu songs are shown in the table below. Also includes **Name**, **Reason** and **Composer**
+|Name|Reason|Composer|
+|---|---|---|
+|Akhanda Title Song|This song has boasts of ethnic and western beats, and it leaves an impression of listening to a high-octane anthem rather than just a title song|Thaman S|
+|Ramanna Ramanna|This song features a vast background score and, when we listen to it, depicts the Chowdary royalty|Mani Sharma|
+|Mama Ek Peg Laa|The song is a celebration of life and friendship. It is a song about letting loose and having fun|Anup Rubens|
+|One and Only Lion|The lyrics of the song are about heroism and strength. The music is also very energetic, which will help to create a fun and festive atmosphere|Mani Sharma|
+
