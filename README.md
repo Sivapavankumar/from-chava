@@ -68,5 +68,6 @@ getValue('count')
 
 ```
 
+[Quick link of snippet source](https://code.pieces.app/collections/typescript)
 
 
