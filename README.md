@@ -27,3 +27,15 @@ My top picks for the best telugu songs are shown in the table below. Also includ
 |Mama Ek Peg Laa|The song is a celebration of life and friendship. It is a song about letting loose and having fun|Anup Rubens|
 |One and Only Lion|The lyrics of the song are about heroism and strength. The music is also very energetic, which will help to create a fun and festive atmosphere|Mani Sharma|
 
+---
+
+## Favourite Quotes
+
+> Where the mind is without fear and the head is held high.
+
+> I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.
+
+Author Name : *Rabindranath Tagore*
+
+
+
