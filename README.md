@@ -37,5 +37,36 @@ My top picks for the best telugu songs are shown in the table below. Also includ
 
 Author Name : *Rabindranath Tagore*
 
+---
+
+## Code Fencing
+
+The sample demonstrates how to define a structure using TypeScript interfaces ('MyInterface').
+Based on the specified interface, an object ('myObject') is constructed.
+To dynamically extract values from the object depending on keys, a function called ('getValue') is defined.
+The function's use highlights the possible danger of utilizing invalid keys because TypeScript permits keys that are not included in the interface ('count').
+
+```
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+const myObject: MyInterface = {
+  id: 1,
+  name: 'foo',
+  properties: ['a', 'b', 'c']
+};
+
+function getValue(value: keyof MyInterface) {
+  return myObject[value];
+}
+
+getValue('id'); // 1
+getValue('count')
+
+```
+
 
 
